@@ -9,7 +9,3 @@ About me? What about me?
 ### More Information
 
 No, thank you.
-
-### Address
-
-[@doppelhanger](twitter.com/doppelhanger)
