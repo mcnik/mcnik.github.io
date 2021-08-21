@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### What is this?
+### About this
 
 Honestly, I don't know if I have a good answer. Sometime before Twitter, I was what might be termed an "avid blogger." The quality of the blog was dismal and the intent behind it was muddled. Twitter came in and scratched a very particular need well. It was easy to constrain my thoughts and have them be validated by a thousand people. Recently, I've noticed myself constructing longer elaborate sentences while talking to myself and also while I attempt to talk to others. I've come to a conclusion: Twitter is not a great place for a conversation. 
 
@@ -20,10 +20,10 @@ This is an attempt to think beyond a tweet. I often have thoughts and ideas abou
 
 I am also risk averse as are all who fear failure. Lately, I have noticed an annoyance with waiting to be wrong. This is an attempt at being wrong now. 
 
-And, yes, there is definitely better writing, on probably all of these topics, out there but when has that ever been a reason not do a thing?
+And, yes, there is definitely better writing, on probably all of these topics, out there. I am not saying that the things I am saying here are good or right or "morally unassailable." All I'm saying is that I need to say them.
 
 <br/><br/>
 
-### More Information
+### About me
 
 No, thank you.
