@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-###What is this?
+### What is this?
 
 Honestly, I don't know if I have a good answer. Sometime before Twitter, I was what might be termed an "avid blogger." The quality of the blog was dismal and the intent behind it was muddled. Twitter came in and scratched a very particular need well. It was easy to constrain my thoughts and have them be validated by a thousand people. Recently, I've noticed myself constructing longer elaborate sentences while talking to myself and also while I attempt to talk to others. I've come to a conclusion: Twitter is not a great place for a conversation. 
 
@@ -18,7 +18,10 @@ This is an attempt at growth. Am I capable of having opinions on things and upda
 
 This is an attempt to think beyond a tweet. I often have thoughts and ideas about things that lead to "discourse" on Twitter. I almost never weigh in and if I do, it is with a tweet. Often, I have the beginnings of an idea that I would like to test or a thought that I would like to burnish. I need a place to write down my thoughts so I can be sure of them. It is a difficult game though because I risk compounding confirmation bias. I could also invite dissent and who knows what shape that might take. 
 
-I am also risk averse as are all who fear failure. But, I think, I am tired of waiting to be wrong. This is an attempt at being wrong now. 
+I am also risk averse as are all who fear failure. Lately, I have noticed an annoyance with waiting to be wrong. This is an attempt at being wrong now. 
+
+And, yes, there is definitely better writing, on probably all of these topics, out there but when has that ever been a reason not do a thing?
+
 <br/><br/>
 
 ### More Information
