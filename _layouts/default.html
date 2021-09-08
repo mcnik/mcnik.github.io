@@ -5,19 +5,19 @@
 
     {% include meta.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <script type="text/javascript">const descriptions = ["Pretentious claptrap", "Winter of our discotheque", "Opprobrium of the masses", "That blog you like is coming back in style", "A bad workman always blames his tools", "My brand is multitudinous"];
-      const desc = Math.floor(Math.random() * descriptions.length);
-      document.getElementsByClassName("site-description")[0].textContent = desc; </script>
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
-  <body>
+  <body onload="update()">
+    <script type="text/javascript">
+      function update() {
+        const descriptions = ["Pretentious claptrap", "Winter of our discotheque", "Opprobrium of the masses", "That blog you like is coming back in style", "A bad workman always blames his tools", "My brand is multitudinous"];
+        const desc = Math.floor(Math.random() * descriptions.length);
+        document.getElementsByClassName("site-description")[0].textContent = desc;
+      }
+    </script>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
