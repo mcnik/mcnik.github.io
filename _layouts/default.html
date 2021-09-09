@@ -15,7 +15,7 @@
       function update() {
         const descriptions = ["Pretentious claptrap", "Winter of our discotheque", "Opprobrium of the masses", "That blog you like is coming back in style", "A bad workman always blames his tools", "My brand is multitudinous"];
         const desc = Math.floor(Math.random() * descriptions.length);
-        document.getElementsByClassName("site-description")[0].textContent = desc;
+        document.getElementsByClassName("site-description")[0].textContent = descriptions[desc];
       }
     </script>
     <div class="wrapper-masthead">
