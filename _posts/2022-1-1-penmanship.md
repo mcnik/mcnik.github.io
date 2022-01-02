@@ -21,7 +21,7 @@ Don't assume that only you can see the World for what it is. For two years, peop
 
 You haven't gotten the better of all your insecurities yet, but you know where they all live. You are not a fluffy Unicorn; you are a brown Raccoon, scavenging for scraps and getting good at it. You have never taken happiness for granted, which will serve you well. 
 
-Try to relax. Things happen with and without you. Even the minotaur had moments of peace in the labyrinth. 
+Try to relax. Things happen with and without you. Even the minotaur had moments of peace in the labyrinth. Kindness begins at home too. Happy new year.
 
 
 <br/><br/>
