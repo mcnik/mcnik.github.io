@@ -19,9 +19,9 @@ You will be glad to know that you still have that urge in you to create. Your to
 
 Don't assume that only you can see the World for what it is. For two years, people like you have paid the price of goods ordered by someone else. People have been forced to see it daily for two years now. They don't need reminders. Show them the World as it can be or better, as it should be. The Universe does not get cable and is incapable of understanding Irony[^7]. 
 
-You haven't gotten the better of all your insecurities yet, but you know where they all live. You are not a fluffy Unicorn; you are a brown Raccoon, scavenging for scraps and getting good at it. You have never taken happiness for granted, which will serve you well. 
+You haven't gotten the better of all your insecurities yet, but you know where they all live. You are not a fluffy Unicorn; you are a brown Raccoon, scavenging for scraps and getting good at it. You have never taken happiness for granted, which will serve you well. Life is both too long and too short. Don't forget that but also don't think about that all the time. You know you want to do so much more than you can. Be satisfied with what you did. Kindness and charity live together. 
 
-Try to relax. Things happen with and without you. Even the minotaur had moments of peace in the labyrinth. Kindness begins at home too. Happy new year.
+Try to relax. Things happen with and without you. Even the minotaur had moments of peace in the labyrinth. Happy new year. 
 
 
 <br/><br/>
