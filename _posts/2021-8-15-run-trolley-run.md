@@ -44,7 +44,7 @@ Would self-driving cars be more "successful" if they claimed to solve the proble
 ##### Acceptable Costs
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The trolley problem is just another way for the big Corporation to shift responsibility to the Individual in the name of &quot;ethics&quot;.</p>&mdash; dj baby shoes (@doppelhanger) <a href="https://twitter.com/doppelhanger/status/1398294128039927810?ref_src=twsrc%5Etfw">May 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote><p lang="en" dir="ltr">The trolley problem is just another way for the big Corporation to shift responsibility to the Individual in the name of &quot;ethics&quot;.</p><a href="https://twitter.com/doppelhanger/status/1398294128039927810">May 28, 2021</a></blockquote>
 
 One could argue that society must not allow the self-driving trolley to run unchecked[^5]. The Trolley Company profits by getting us all to accept the risk of a few people being run over. The Trolley Company is banking on selling a lot of these trolleys (not to mention, monetizing the self-driving AI) at the cost of a few people living with the trauma of pulling the lever. 
 
