@@ -22,7 +22,7 @@ Do you have any agency outside of this ethical conundrum? Isn't there any easier
 
 These are some of the questions that _don't_ appear in your mind because your mind is already occupied by "the big one": What is the right thing to do? 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If I worked at the trolley operator contracting agency, I would simply not take that trolley operator job. I don&#39;t see the problem.</p>&mdash; dj baby shoes (@doppelhanger) <a href="https://twitter.com/doppelhanger/status/1280757650645385216?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote>
+<blockquote><p lang="en" dir="ltr">If I worked at the trolley operator contracting agency, I would simply not take that trolley operator job. I don&#39;t see the problem.</p><a href="https://twitter.com/doppelhanger/status/1280757650645385216">July 8, 2020</a></blockquote>
 
 There is only one possible way not to lose a game: never play it. By choosing to sacrifice anyone, you are ultimately making a choice to participate in this obtuse game. By choosing to participate, you are accepting the rules laid down by the invisible Jigsaw-style ethicist-serial killer who designed the game in the first place. 
 
@@ -41,7 +41,7 @@ As is often the case, once you put a system into the real world, the real world&
 Would self-driving cars be more "successful" if they claimed to solve the problem of car-involved fatalities[^4]?
 
 
-##### Acceptable Costs 
+##### Acceptable Costs
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The trolley problem is just another way for the big Corporation to shift responsibility to the Individual in the name of &quot;ethics&quot;.</p>&mdash; dj baby shoes (@doppelhanger) <a href="https://twitter.com/doppelhanger/status/1398294128039927810?ref_src=twsrc%5Etfw">May 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
