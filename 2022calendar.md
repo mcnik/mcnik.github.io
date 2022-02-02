@@ -1,8 +1,10 @@
-### I Made A Calendar
+---
+title: I Made A Calendar
+---
 
 #### Why
 
-An overarching theme here is emptiness. 
+An overarching theme in these photos is that of emptiness. 
 
 #### The photos
 
@@ -37,7 +39,7 @@ June: Pike Place Market, Seattle, WA | June 29 2021
 
 July: Portage Bay, Seattle, WA | August 1 2021
 ![Cover Image](/imgs/2022calendar/july-seattle-aug12021.jpg?raw=true "Houseboats")
-I have always wanted to live on a houseboat. This might seem strange if you also knew that I was, and still am, to some extent, scared of deep water. I understand the appeal of living on a houseboat that wanders around. However, these were firmly rooted in place. I thought of how much I hate being woken up by the occassional quake in San Francisco and immediately readjusted my willingness to live on a houseboat. 
+I have always wanted to live on a houseboat. This might seem strange if you also knew that I was, and still am, to some extent, scared of deep water. I understand the appeal of living on a houseboat that wanders around. However, these were firmly rooted in place. I thought of how much I hate being woken up by the occassional quake in San Francisco and immediately readjusted my willingness to live on a houseboat. The reflections on the water more than made up for the dour sky. 
 
 August: Japanese Hill and Pond Garden, Brooklyn, NY | November 11 2021
 ![Cover Image](/imgs/2022calendar/august-nyc-nov112021.jpg.jpg?raw=true "Torii Pond")
