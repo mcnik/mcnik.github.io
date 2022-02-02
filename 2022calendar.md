@@ -2,6 +2,8 @@
 
 #### Why
 
+An overarching theme here is emptiness. 
+
 #### The photos
 
 Cover Photo: Tower Bridge, Sacramento, CA | July 4 2021
@@ -32,24 +34,31 @@ May: Jimi Hendrix Park, Seattle, WA | August 1 2021
 June: Pike Place Market, Seattle, WA | June 29 2021
 ![Cover Image](/imgs/2022calendar/june-seattle-jun292021.jpg?raw=true "")
 
-July: Portage Bay, Seattle, WA | August 2021
+
+July: Portage Bay, Seattle, WA | August 1 2021
 ![Cover Image](/imgs/2022calendar/july-seattle-aug12021.jpg?raw=true "Houseboats")
+I have always wanted to live on a houseboat. This might seem strange if you also knew that I was, and still am, to some extent, scared of deep water. I understand the appeal of living on a houseboat that wanders around. However, these were firmly rooted in place. I thought of how much I hate being woken up by the occassional quake in San Francisco and immediately readjusted my willingness to live on a houseboat. 
 
 August: Japanese Hill and Pond Garden, Brooklyn, NY | November 11 2021
 ![Cover Image](/imgs/2022calendar/august-nyc-nov112021.jpg.jpg?raw=true "Torii Pond")
-https://www.bbg.org/collections/gardens/japanese_garden The garden features artificial hills contoured around a pond, a waterfall, and an island, along with carefully placed rocks. Architectural elements include wooden bridges, stone lanterns, a viewing pavilion, a Shinto shrine, and a dramatic vermilion-colored wooden torii. 
+The Japanese Hill and Pond garden in the Brooklyn Botanical Gardens features a near-perfect slice of Japan outside of Japan. I spent quite some time debating which photos to represent New York. I think this photo demonstrates the pockets of culture that New York is capable of replicating, almost like petri dish cultures, outside of their natural habitat. The vermilion-colored wooden torii overshadows a family photo session in the background. [more](https://www.bbg.org/collections/gardens/japanese_garden) 
 
 September: San Francisco, CA | September 9 2020
 ![Cover Image](/imgs/2022calendar/september-sf-sept92020.jpg?raw=true "")
+September 9, 2020 will forever go down in my personal history, at least, as "the day the sky turned red." A dubious epithet, a runaway filter from Blade Runner 2049 applied to reality, the closest thing to an acknowledgment that the dystopia is already here just unevenly distributed, take your pick. I am lucky enough to be able to blow off work for a day and also to have a friend who was willing to do the same. We had a good reason. 
 
-October: Behind Water St, Brooklyn, NY | November 9 2021
+October: Jane's Carousel & Skyline, Brooklyn, NY | November 9 2021
 ![Cover Image](/imgs/2022calendar/october-nyc-nov92021.jpg?raw=true "New York")
+On the way to Jane's Carousel, rectangular structure near the water, and past the famed DUMBO bridge viewpoint, you end up walking on a street with, as far as I can tell, no name. It is odd that this small, uneven, paved path has resisted naming in what is clearly a tourist infested area. I ate breakfast here in peace while only a few blocks away people clamored to take a photo of a bridge and two buildings. 
 
 November: somewhere near Portage Bay, Seattle, WA | August 2 2021
 ![Cover Image](/imgs/2022calendar/november1-seattle-aug22021.jpg?raw=true "Me")
+I am not entirely sure when I clicked this photo but it is undoubtedly one of the last few from my Seattle trip. I thought this photo beautifully demonstrates my film camera's affinity to the color green. Also, I could not resist the tempation to include a little immutable me in the calendar. As Barthes says "I am the reference of every photograph."
 
 November: Highway 140, Mariposa, CA | October 16 2021
 ![Cover Image](/imgs/2022calendar/november2-yosemite-oct162021.jpg?raw=true "Red")
+This car is in many ways a contradiction to the other photo. It is red while the previous photo is primarily green. It is a real tangible object while the shadow in the previous is just a representation of myself. It is perfection, in some ways, and I am not.
 
 December: Chapel in Green-Wood Cemetery, Brooklyn, NY | November 14 2021
 ![Cover Image](/imgs/2022calendar/december-nyc-nov142021.jpg.jpg?raw=true "Chapel")
+Coming upon the chapel while walking in the Green-Wood cemetery was a breathtaking surprise. I am sure I looked around multiple times to make sure I wasn't the only one seeing it and also to make sure I could share my sense of wonder, "you seein' this shit?" I might have remarked if I was a New Yorker, with other human beings. The entire cemetery is a national historic landmark. [more](https://www.brownstoner.com/architecture/architecture-green-wood-cemetery-chapel-warren-wetmore-beaux-arts/)
