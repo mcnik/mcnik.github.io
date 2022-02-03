@@ -122,4 +122,4 @@ Why film? All photos were taken with an Olympus Trip XB AF 44, timestamp stuck i
 
 Why a calendar? What better way to remind people of the passage of time than using a dying medium? 
 
-Why these photos? These photos might seem empty because people don't feature prominently in them. However, there is one person in all these photos, me. I am looking out and, with me, you are too. 
+Why these photos? Every single photo has been picked to represent that month for a reason. That reason is for me to know and you to guess at. You can also not care about it and judge the aesthetics. These pictures might seem to be pictures of emptiness because people don't feature prominently in them. They are pictures of emptiness, but remember, there is one person in all these photos, me. I am looking out and, with me, you are too. 
