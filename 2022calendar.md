@@ -2,11 +2,7 @@
 title: I Made A Calendar
 ---
 
-### Why
-
-An overarching theme in these photos is that of emptiness. You might look at these photos and think there are no people in them. The few people that you might see are never the focus of the photos. There is one person in all these photos, me. I am looking out and, with me, you are too. Consider these photos as documents of my life and some even as a reflection of me as a person. Judge them as you will. 
-
-### The photos
+### The Photos (35mm film)
 
 #### Cover Photo: Tower Bridge, Sacramento, CA | July 4 2021
 ![Tower Bridge, Sacramento, CA](/imgs/2022calendar/cover-sacramento-july42021.jpg?raw=true "Tower Bridge, Sacramento, CA")
@@ -18,7 +14,7 @@ This might be the most accessible hiking trail in the Yosemite Valley. Unless th
 
 #### February: Purisima Creek Trail overlooking Half Moon Bay, CA | May 8 2021
 ![Cover Image](/imgs/2022calendar/february1-halfmoonbay-may82021.jpg?raw=true "Purisima Creek Trail overlooking Half Moon Bay")
-Film does not suffer fools gladly. You get what you get, more or less, and you don't see what you will get until you develop the film. This scarcity metric forces you to be more deliberate in choosing what to photograph and when to photograph. I have shot quite a few rolls of film only to find the end product less than satisfactory. The colors of the sky you see here did not exist in "objective reality." The digital scan was not edited by me. This was the rare instance when the film did something inspired all on its own. 
+I have shot quite a few rolls of film only to find the end product less than satisfactory. And then sometimes, I end up with something like this. The colors of the sky you see here did not exist in "objective reality." The digital scan was not edited by me. This was the rare instance when the film did something inspired all on its own. 
 
 #### February: 635 Fulton St, San Francisco, CA | February 21 2021
 ![Cover Image](/imgs/2022calendar/february2-sf-feb212021.jpg?raw=true "A Victorian house being moved")
@@ -34,7 +30,7 @@ I went here specifically to get photos of the Ferris wheel. When I walked around
 
 #### April: "Duck" on Stow Lake, San Francisco, CA | July 17 2021
 ![Cover Image](/imgs/2022calendar/april2-sf-july172021.jpg?raw=true "Duck")
-I love contradictions. If I could, I would have put two photos on each page, comparing and contrasting different aspects in each. For me, the main focus of this photo was not just the placid, white duck but also the deep, gently agitated, green water it broods over. A tiny break. Both these photos represent something similar to me. 
+I love contradictions. If I could, I would have put two photos on each page, comparing and contrasting different aspects in each. For me, the focus of this photo was not just the placid, white duck but also the deep, gently agitated, green water it surveys. A tiny ruler and its domain. Both these photos represent something similar to me. 
 
 #### May: Jimi Hendrix Park, Seattle, WA | August 1 2021
 ![Cover Image](/imgs/2022calendar/may-seattle-aug12021.jpg?raw=true "Heart of Jimi Hendrix Park")
@@ -42,7 +38,7 @@ You can see Jimi Hendrix himself if you stand at a specific distance and positio
 
 #### June: Pike Place Market, Seattle, WA | June 29 2021
 ![Cover Image](/imgs/2022calendar/june-seattle-jun292021.jpg?raw=true "Crowdsourcing")
-The last two years have stopped Life in its tracks for most of us. I tried to pick photographs that did not display motion to convey the same sense of torpor. There is motion in this one, a vision of commerce. I might even be tempted to call it 'normal,' which now means 'a sense of the world passing you by, of losing yourself in a crowd.' Rachel's Ginger Beer is my favorite place to visit in Seattle. Ginger beer is excellent for nursing heartbreak. 
+The last two years have stopped Life in its tracks for most of us. I tried to pick photographs that did not display otion to convey the same sense of torpor. There is motion in this one, a vision of commerce. I might even be tempted to call it 'normal,' which now means 'a sense of the world passing you by, of losing yourself in a crowd.' Rachel's Ginger Beer is my favorite place to visit in Seattle. Ginger beer is excellent for nursing heartbreak. 
 
 #### July: Portage Bay, Seattle, WA | August 1 2021
 ![Cover Image](/imgs/2022calendar/july-seattle-aug12021.jpg?raw=true "Houseboats")
@@ -58,7 +54,7 @@ September 9, 2020 will forever go down in my personal history, at least, as "the
 
 #### October: Jane's Carousel & Skyline, Brooklyn, NY | November 9 2021
 ![Cover Image](/imgs/2022calendar/october-nyc-nov92021.jpg?raw=true "New York")
-On the way to Jane's Carousel, the rectangular structure near the water, and past the famed DUMBO bridge viewpoint, you end up walking on a street with no name as far as I can tell. Oddly, this small, uneven, paved path has resisted naming in what is clearly a tourist-infested area. I ate breakfast here in peace while only a few blocks away, people clamored to take a photo of a bridge and two buildings. 
+On the way to Jane's Carousel, the rectangular structure near the water, and past the famed DUMBO bridge viewpoint, you end up walking on a street with no name as far as I can tell. Oddly, this small, uneven, paved path has resisted naming in what is clearly a tourist-infested area. I ate here in peace while only a few blocks away, people clamored to take a photo of a bridge and two buildings. 
 
 #### November: somewhere near Portage Bay, Seattle, WA | August 2 2021
 ![Cover Image](/imgs/2022calendar/november1-seattle-aug22021.jpg?raw=true "Me")
@@ -71,3 +67,12 @@ This car is in many ways a contradiction to the other photo. It is red, while th
 #### December: Chapel in Green-Wood Cemetery, Brooklyn, NY | November 14 2021
 ![Cover Image](/imgs/2022calendar/december-nyc-nov142021.jpg?raw=true "Chapel")
 Coming upon the chapel while walking in the Green-Wood cemetery was a breathtaking surprise. I am sure I looked around multiple times to make sure I wasn't the only one seeing it and also to make sure I could share my sense of wonder, "you seein' this shit?" I might have remarked if I was a New Yorker with other human beings. The entire cemetery is a national historic landmark. [more](https://www.brownstoner.com/architecture/architecture-green-wood-cemetery-chapel-warren-wetmore-beaux-arts/)
+
+
+### Why
+
+Why film? All photos were taken with an Olympus Trip XB AF 44, timestamp stuck in 1998, gifted to me by a former co-worker. Creativity flourishes under constraints. Film does not suffer fools gladly. You get what you get, more or less, and you don't see what you will get until you develop the film. This scarcity metric forces you to be more deliberate in choosing what to photograph and when to photograph. 
+
+Why a calendar? What better way to remind people of the passage of time than using a dying medium? 
+
+Why these photos? These photos might seem empty because people don't feature prominently in them. However, there is one person in all these photos, me. I am looking out and, with me, you are too. 
