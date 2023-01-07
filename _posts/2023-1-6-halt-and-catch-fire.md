@@ -3,9 +3,9 @@ layout: post
 title: Neither Hope Nor Despair But A Secret Third Thing
 ---
 
-". . . yet there is no avoiding time, the sea of time, the sea of memory and forgetfulness, the years of promise, gone and unrecoverable, of the land almost allowed to claim its better destiny, only to the claim jumped by evildoers known all too well, and taken instead and held hostage to the future we must live in now forever."
+<blockquote><p lang="en" dir="ltr">. . . yet there is no avoiding time, the sea of time, the sea of memory and forgetfulness, the years of promise, gone and unrecoverable, of the land almost allowed to claim its better destiny, only to the claim jumped by evildoers known all too well, and taken instead and held hostage to the future we must live in now forever.</p></blockquote>
 
- ―  Thomas Pynchon,  Inherent Vice 
+ ―  Thomas Pynchon, Inherent Vice 
 
 I know we all have the attention span of a goldfish now, so if you want a tl;dr on this post, it is the above quote. I am going to be talking about Twitter, but this is not another lament for Twitter. This is really about building things for people, "being online," and what I want to do with my time.
 
@@ -13,16 +13,16 @@ I know we all have the attention span of a goldfish now, so if you want a tl;dr 
 
 If you follow me on Twitter or have met me, you might have heard me talk about a tv show called Halt and Catch Fire which paints a reasonably accurate picture of the technology life cycle. Here is how it usually goes:
 
-You want to create a Thing using technology. So far, so good!
-You want to work with other People. Oh no. This is where things usually fall apart.
-But if you get past this point, you need other people to use the Thing. As we have established above, People are the worst.
-Against all odds, People use the Thing. Hooray? No, no, hooray. Because now, you need to figure out how to keep People using the Thing, and your opinion on People is well documented.
-So, now, you try to add things to the Thing to keep People engaged. These things are not the Thing, but occasionally you might stumble upon the real something that all these People want from you.
-Congratulations! You have a purpose now.
-People love your Thing! But hey, people are fickle, and they might love another Thing, so you must compete and never be satisfied with your Thing.
-Eventually, for you to continue caring about the Thing, you need to make Money.
-Look, there are many steps in the middle, but eventually, we all end up at the same place.
-Everyone is mad.
+1. You want to create a Thing using technology. So far, so good!
+2. You want to work with other People. Oh no. This is where things usually fall apart.
+3. But if you get past this point, you need other people to use the Thing. As we have established above, People are the worst.
+4. Against all odds, People use the Thing. Hooray? No, no, hooray. Because now, you need to figure out how to keep People using the Thing, and your opinion on People is well documented.
+5. So, now, you try to add things to the Thing to keep People engaged. These things are not the Thing, but occasionally you might stumble upon the real something that all these People want from you.
+6. Congratulations! You have a purpose now.
+7. People love your Thing! But hey, people are fickle, and they might love another Thing, so you must compete and never be satisfied with your Thing.
+8. Eventually, for you to continue caring about the Thing, you need to make Money.
+9. Look, there are many steps in the middle, but eventually, we all end up at the same place.
+10. Everyone is mad.
 
 I was born in 1989. Or 1990 depending on which parent you ask. I only had a personal computer in 2008. I was studying Computer Science in India. I did not have internet access for another year. I remember, as I am sure you do, the appeal of it all. Reach out and talk to all your friends. Wait, not just that. Reach out and make new friends. No, no, there's more. Reach out and talk to anyone. How much did it cost? Nothing! Well, sure, there was a bill, but I didn't have to pay it. I don't have siblings, and all my cousins are older than me, married with kids older. So, I took to the internet with an unparalleled hunger for knowledge and connection. I would read Wikipedia all day, all night. My introduction to Social Networks was Google Chat. Do you remember that little chat window in Gmail? I used that to talk to my college friends. Then came Orkut (and Google's other failed attempts like Buzz and Wave, which are good band names), and eventually, begrudgingly, I joined Facebook.
 
