@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neither hope nor despair but a secret third thing?
-tag: [blog]
+tags: [blog]
 ---
 
 <blockquote><p lang="en" dir="ltr">. . . yet there is no avoiding time, the sea of time, the sea of memory and forgetfulness, the years of promise, gone and unrecoverable, of the land almost allowed to claim its better destiny, only to the claim jumped by evildoers known all too well, and taken instead and held hostage to the future we must live in now forever.</p></blockquote>
