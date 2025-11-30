@@ -116,4 +116,4 @@ You don't become good once and remain good forever. You have to choose it, again
 
 [^9]: In the first movie, Peter says, "I had to beat an old lady with a stick to get these cranberries." That is what they call foreshadowing.
 
-[^10]: I am not an avid comic reader but I have read some Spider-Man storylines that also reflect these themes. I have borrowed some of their names for my section headings. They are as follows:
+[^10]: I am not an avid comic reader but I have read some Spider-Man storylines that also reflect these themes. I have borrowed some of their names for my section headings. They are, in no particular order: Spider-Man No More, If This Be My Destiny, Kraven's Last Hunt, Life Story, The Night Gwen Stacy Died, Coming Home, Back in Black, Ultimate Spider-Man: Power and Responsibility, and The Gauntlet which runs across 24 issues with different creative teams.
