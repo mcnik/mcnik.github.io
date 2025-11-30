@@ -59,7 +59,7 @@ She rejects the notion of judgment entirely and says, "Revenge is like a poison.
 
 ##### Coming Home
 
-By the end of the trilogy, we've seen a full spectrum of how we respond to our worst impulses:
+By the end of the trilogy[^7], we've seen a full spectrum of how we respond to our worst impulses:
 
 **Norman Osborn** chooses wrongly to the end. His final act is an attempt to emotionally manipulate Peter, to shift blame to the Goblin, to preserve his legacy through deception. His final plea of "Don't tell Harry," is simply another way to protect himself through his son's memory of him. He dies a villain.
 
@@ -73,7 +73,7 @@ Uncle Ben gets the biggest quote and gets to come back as force ghost. He is oft
 
 In the first film, she gives Peter the "great responsibility" framework through Uncle Ben's memory. In the second, she tells him about the kid who needs Spider-Man, about heroes giving people hope. She reignites his sense of purpose: "Sometimes, to do what's right, we have to be steady and give up the thing we want the most. Even our dreams." In the third, she guides him to redemption by asking him to forgive, starting with himself.
 
-The trilogy ends not with Peter defeating a villain but with Peter releasing one. Marko dissolves into sand and drifts away. The final moral act isn't violence — it's mercy[^8].
+The trilogy ends not with Peter defeating a villain but with Peter releasing one. Marko dissolves into sand and drifts away. The final moral act isn't violence — it's mercy.
 <br/>
 
 ##### If This Be My Destiny
@@ -86,7 +86,7 @@ By the second film, he's exhausted. Heroism-as-penance isn't sustainable. You ca
 
 The third film, reveals what was latent all along: his motivation was misplaced. There is nothing wrong with Peter wanting to be seen, to be loved, to be rewarded. But when he chooses to be Spider-Man, he can't be Peter.
 
-Raimi’s Peter is consistently conflicted. Peter is capable of real evil[^9]. Spider-Man, like us, must confront that fact, repeatedly. I'm not sure the trilogy believes in the purity of the heroic ideal. It suggests something more real, something more palatable, something more achievable. Purity isn't just impossible — it's an ideal. One we must keep striving for, knowing that we will fail to reach it.
+Raimi’s Peter is consistently conflicted. Peter is capable of real evil[^8]. Spider-Man, like us, must confront that fact, repeatedly. I'm not sure the trilogy believes in the purity of the heroic ideal. It suggests something more real, something more palatable, something more achievable. Purity isn't just impossible — it's an ideal. One we must keep striving for, knowing that we will fail to reach it[^9].
 <br/>
 
 ##### The Gauntlet
@@ -106,14 +106,14 @@ You don't become good once and remain good forever. You have to choose it, again
 
 [^4]: It is unoriginal to point out the lack of memorable villains in the MCU but you can really see the difference when you look at Goblin and Doc Ock with anyone else. Only Keaton's Vulture comes close. While Dafoe and Molina dive in to these roles with relish, credit is also due to Raimi for striking the right tone which allows them to create something Shakespearan.
 
-[^5]: The third film is messy. Too many villains, too many subplots.
+[^5]: The third film is messy. Too many villains, too many subplots. Focusing on Sandman, as Raimi claims he wanted to do would have been cleaner, better.
 
 [^6]: "Karmanye vadhikaraste ma phaleshu kadachana" is a famous verse from the Hindu religious text Bhagavad Gita (Chapter 2, Verse 47) that literally translates to: "You have the right to action, but never to the fruits of your actions". Virtue is habit, not achievement.
 
-[^7]: One must imagine Sisyphus making the choice to be happy.
+[^7]: You could also read the trilogy as the child Peter looking for a father figure. He starts off by wrongly rejecting one in Uncle Ben and rightly rejecting a false one in Norman. He thinks he found one in Otto but by the end of the film he has lost him. Finally, he realizes he needs to grow up and be a man now. You might also argue that he does this by successfully combining his basic id, his rational ego, and the superego.
 
-[^8]: You could also read the trilogy as the child Peter looking for a father figure. He starts off by wrongly rejecting one in Uncle Ben and rightly rejecting a false one in Norman. He thinks he found one in Otto but by the end of the film he has lost him. Finally, he realizes he needs to grow up and be a man now. You might also argue that he does this by successfully combining his basic id, his rational ego, and the superego.
+[^8]: In the first movie, Peter says, "I had to beat an old lady with a stick to get these cranberries." They told us right there that he was going to break bad.
 
-[^9]: In the first movie, Peter says, "I had to beat an old lady with a stick to get these cranberries." They told us right there that he was going to break bad.
+[^9]: One must imagine Sisyphus making the choice to be happy.
 
-[^10]: I am not an avid comic reader but I have read some Spider-Man storylines that also reflect these themes. I have borrowed some of their names for my section headings. They are, in no particular order: Spider-Man No More, If This Be My Destiny, Kraven's Last Hunt, Life Story, The Night Gwen Stacy Died, Coming Home, Back in Black, Ultimate Spider-Man: Power and Responsibility, and The Gauntlet which runs across 24 issues with different creative teams.
+[^10]: I am not an avid comic reader but I have read some Spider-Man storylines that also reflect these themes. I have borrowed some of their names for my section headings. They are, in no particular order: Spider-Man No More, If This Be My Destiny, Kraven's Last Hunt, Life Story, The Night Gwen Stacy Died, Coming Home, Back in Black, The Kid Who Collects Spider-Man, Ultimate Spider-Man: Power and Responsibility, and The Gauntlet which runs across 24 issues with different creative teams.
