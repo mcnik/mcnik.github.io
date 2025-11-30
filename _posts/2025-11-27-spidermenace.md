@@ -3,11 +3,10 @@ layout: post
 title: If This Be My Destiny
 ---
 
-A while ago I got the opportunity to profess my love for Sam Raimi's Spider-Man 2 on a discord chat. Truth be told, I don't need an opportunity to do that. I only need to hear someone say "What is the best..." before I chime in with "Spider-Man 2 (2004)." It is a great movie and possibly the best superhero movie ever made[^1]. The internet will provide you with ample evidence in support of this argument so I won't belabor the point. However, what about the other two? 
+A while ago I got the opportunity to profess my love for Sam Raimi's Spider-Man 2 on a discord chat. Truth be told, I don't need an opportunity to do that. I only need to hear someone say "What is the best..." before I chime in with "Spider-Man 2 (2004)." It is a great movie and possibly the best superhero movie ever made[^1]. The internet will provide you with ample evidence in support of this argument so I won't belabor the point. However, what about the other two?
 
-Last week, I saw someone say the first one is a Thanksgiving movie and I realized I had forgotten enough of it to warrant a rewatch on Thanksgiving. The first film is mostly fine. It introduces our titular hero and the supporting cast, features Willem Dafoe's memorable — still terrifying, two decades later — Green Goblin, and ties everything up neatly while making sure we come back for more. I watched the second one immediately after and thought about writing this essay. So, even though I dreaded it, I watched the third one. Over the years, nothing from the third has stayed with me[^2]. Yes, it pales in comparison to its illustrious predecessor but its only sin is gluttony. It has too much, it tries to do too much[^3]. While the execution is shoddy, it completes the arc of Peter/Spidey, especially when seen through the eyes of the villains he faces. Taken as a whole, the trilogy is a revolutionary take on superheroes, one that can be seen as a template for such stories being told even now. A single question comes through, loud and clear, in each of these movies. Film after film, villain after villain: *What do we become when we give in to what we think we deserve?*
-
----
+Last week, I saw someone say the first one is a Thanksgiving movie and I realized I had forgotten enough of it to warrant a rewatch on Thanksgiving. The first film is mostly fine. It introduces our titular hero and the supporting cast, features Willem Dafoe's memorable — still terrifying, two decades later — Green Goblin, and ties everything up neatly while making sure we come back for more. I watched the second one immediately after and thought about writing this essay. So, even though I dreaded it, I watched the third one. Over the years, nothing from the third has stayed with me[^2]. Yes, it pales in comparison to its illustrious predecessor but its only sin is gluttony. It has too much, it tries to do too much[^3]. While the execution is shoddy, it completes the arc of Peter/Spidey, especially when seen through the eyes of the villains he faces. Taken as a whole, the trilogy is a revolutionary take on superheroes, one that hasn't been rivaled. A single question comes through, loud and clear, in each of these movies. Film after film, villain after villain: *What makes a hero?*
+<br/>
 
 ##### The Villains
 
@@ -108,7 +107,6 @@ Simply choosing to do right, again and again, is the only real superpower.
 
 ## The Choice
 
-[PLACEHOLDER: You might want to expand here on what this means to you personally. Your essays often end with a turn inward—a moment where the cultural analysis becomes self-interrogation. What does Peter's arc say about your own relationship to ambition, reward, guilt? What have you given in to that you thought you deserved?]
 
 ---
 
