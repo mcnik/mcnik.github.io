@@ -1,0 +1,129 @@
+---
+layout: post
+title: If This Be My Destiny
+---
+
+A while ago I got the opportunity to profess my love for Sam Raimi's Spider-Man 2 on a discord chat. Truth be told, I don't need an opportunity to do that. I only need to hear someone say "What is the best..." before I chime in with "Spider-Man 2 (2004)." It is a great movie and possibly the best superhero movie ever made[^1]. The internet will provide you with ample evidence in support of this argument so I won't belabor the point. However, what about the other two? 
+
+Last week, I saw someone say the first one is a Thanksgiving movie and I realized I had forgotten enough of it to warrant a rewatch on Thanksgiving. The first film is mostly fine. It introduces our titular hero and the supporting cast, features Willem Dafoe's memorable — still terrifying, two decades later — Green Goblin, and ties everything up neatly while making sure we come back for more. I watched the second one immediately after and thought about writing this essay. So, even though I dreaded it, I watched the third one. Over the years, nothing from the third has stayed with me[^2]. Yes, it pales in comparison to its illustrious predecessor but its only sin is gluttony. It has too much, it tries to do too much[^3]. While the execution is shoddy, it completes the arc of Peter/Spidey, especially when seen through the eyes of the villains he faces. Taken as a whole, the trilogy is a revolutionary take on superheroes, one that can be seen as a template for such stories being told even now. A single question comes through, loud and clear, in each of these movies. Film after film, villain after villain: *What do we become when we give in to what we think we deserve?*
+
+---
+
+##### The Villains
+
+> "Sorry I'm late. Work was murder."
+> — Norman Osborn, *Spider-Man*
+
+Norman Osborn, apart from being something of a scientist, is a selfish man. All he wants to do is protect his legacy. In the boardroom scene, when he is told that Oscorp is being sold and he's being forced out, he is consumed by anger. This is the company he founded and built from the ground up. How dare they take it away from him? The Goblin, his desire incarnate, murders the board members at the Unity Day parade to prevent the sale. Even the first attack on Quest Aerospace was about preserving his company's future.
+
+In the famous mirror scene, when Norman asks "What do you want?" the Goblin answers: "To say what you won't. To do what you can't. To remove those in your way." Norman denies accountability every step of the way. He claims the Goblin did all those terrible things but the truth is: there is no Goblin without Norman. The serum doesn't create new desires. It removes the internal resistance to acting on desires that were already there.
+
+> "I will not die a monster."
+> — Otto Octavius, *Spider-Man 2*
+
+Otto Octavius is different, and this is part of why *Spider-Man 2* works so much better. His motivation is ambition — noble ambition, even. He loves his wife very much. Peter finally has the father surrogate he has yearned for. As a scientist, Otto wants to change the world. But there's also hubris at play. "The power of the sun in the palm of my hand," he says, and you can hear the pride underneath the wonder[^3]. He assures the silly little reporter that he will be in control of the AI tentacles and Chekhov's inhibitor chip will protect him. Of course, things go wrong.
+
+The chip gets fried and his wife dies. The arms whisper to him, override his conscience. He must complete the reactor at all costs. He has lost too much, by now, to give up. His ambition warps into obsession. His tragedy is more poignant than Norman's because Otto is a good man, and we watch that goodness erode.
+
+But Otto reasserts himself. He chooses, at the end, to drown his creation.
+
+> "I'm not asking you to forgive me. I just want you to understand."
+> — Flint Marko, *Spider-Man 3*
+
+And then there's Flint Marko—Sandman—who complicates everything[^4]. He isn't consumed by power or ego. He's a father trying to save his sick daughter. He kills Uncle Ben, yes, but not intentionally. His partner shakes his arm, and in his fear, Flint pulls the trigger. He has been haunted by the guilt ever since.
+
+He's not a villain in the traditional sense. He's someone who made wrong choices for the right reasons. He's a mirror for Peter, specifically 3rd movie Peter, in a way neither Norman nor Otto could be.
+
+---
+
+## Our Hero?
+
+Norman: protects legacy. Otto: pursues ambition. But what about Peter?
+
+Raimi’s Peter is not a boy scout. His motivation is guilt and obligation. He is more human than most heroes and that makes him more fascinating. There isn't a better articulation of the childish fantasy of it all than the first time he goes swinging. He is living the dream and soon he finds out the consequences of that via Uncle Ben. Power and responsibility go hand in hand, kid. You can't have one without the other. Most of his fights with Goblin are essentially arguments about the same.
+
+In the second film, we see Ben again but this time Peter pushes away. Spider-Man no more, he declares and attempts to escape responsibility. Interestingly, his powers start disappearing too. The film ends with him accepting that responsibility and regaining his power. However, he ignores his own "strong focus on what you want" and oscillates between choices. He won't commit to MJ and he won't back away either. He won't tell Harry the truth and he won't be his friend.
+
+By the third film, Peter Parker has lived long enough to become the villain. Peter has lost a lot by choosing to do the right thing. But right for whom? Not for himself. For others. Two movies worth of sacrifice and self-denial have taken their toll.
+
+At dinner with MJ, Peter says: "I'm just a nerdy kid from Queens. Do I deserve this?" But the way he talks about the celebration, the adulation of the crowd — you can tell he thinks he does. A hero wanting to be rewarded for his heroism might seem fair. But most moral frameworks (and religious texts[^5]) would say good must be done for its own sake, not for reward. The entire superhero gospel is built on the purity of that idea.
+
+Peter's desires aren't born of ego or ambition. He wants to be there for the woman he loves. He wants a normal life. He's haunted by the guilt of his uncle's death. Who is to say he doesn't deserve what he wants, what he needs?
+
+He starts off not knowing what he wants. He struggles to get what he wants. Finally, he gets it. He has the girl, he has his revenge, he has the key to the city. You could end it here and everyone goes home happy. Wouldn't that be nice? It would but it wouldn't be the story of Spider-Man.
+
+Instead, the boulder rolls downhill. His success gets to him. He acts like a jerk. His dream of a "perfect" life shatters. The symbiote takes over. It doesn't create new desires. It amplifies what's already there. The vengeance. The self-pity. The feeling that the world owes him something.
+
+When Peter discovers Marko killed Uncle Ben, he doesn't reach for his regular suit. He chooses the black one. He wants revenge. He sets out to kill. After two movies worth of morality debates, he chooses the wrong thing. When he discovers water weakens Marko, he goes all out. Marko is washed away. Peter thinks he did it. He goes back to Aunt May to tell her, expecting praise, glee.
+
+Peter tells Aunt May: "He deserved it, didn't he?"
+
+She rejects the notion of judgment entirely and says, "Revenge is like a poison. It can take you over. Before you know it, turn us into something ugly."
+
+Foreshadowing, right there.
+
+---
+
+## Aunt May as Moral Compass
+
+Uncle Ben gets the biggest quote and gets to come back as force ghost. He is often considered the yardstrick for Peter's morality. Here, Aunt May is the constant across all three films. She is steady. She simply speaks truth.
+
+In the first film, she gives Peter the "great responsibility" framework through Uncle Ben's memory. In the second, she tells him about the kid who needs Spider-Man, about heroes giving people hope. She reignites his sense of purpose: "Sometimes, to do what's right, we have to be steady and give up the thing we want the most. Even our dreams." In the third, she guides him to redemption by asking him to forgive, starting with himself.
+
+Her message is consistent: goodness is a choice, not a destination. You don't become good once and remain good forever. You have to choose it, again and again[^6].
+
+---
+
+## Coming Home
+
+By the end of the trilogy, we've seen a full spectrum of how we respond to our worst impulses:
+
+**Norman Osborn** chooses wrongly to the end. His final act is an attempt to emotionally manipulate Peter, to shift blame to the Goblin, to preserve his legacy through deception. His final plea of "Don't tell Harry," is simply another way to protect himself through his son's memory of him. He dies a villain.
+
+**Otto Octavius** chooses wrongly, then reclaims his agency and himself at the cost of his life. He needs his own words to cut through the AI brain fog: "Intelligence is not a privilege, it's a gift." He drowns his creation rather than let it destroy the city. Anti-hero, or perhaps tragic hero.
+
+**Flint Marko** never really chooses evil at all. He is as much a victim as his victim, Uncle Ben. Desperate, afraid, haunted by an accident, and trying to save his child. He doesn't ask for forgiveness — just understanding.
+
+**Peter Parker** struggles with choices and falters throughout. He finally goes too far, but not totally over the edge, under the symbiote's influence. He causes real harm: to Harry, to MJ, to himself. To his credit, he chooses to tear off the suit and finally choose forgiveness[^7].
+
+The trilogy ends not with Peter defeating a villain but with Peter releasing one. Marko dissolves into sand and drifts away. The final moral act isn't violence — it's mercy.
+
+---
+
+## The Makings of a Hero
+
+This might be the real question the trilogy is asking.
+
+In the first film, Peter becomes Spider-Man because of guilt. Uncle Ben dies because of his selfishness, so he becomes a hero as penance. But penance is still self-interested, in a sense. It's about *his* guilt, *his* need to make amends.
+
+By the second film, he's exhausted. Heroism-as-penance isn't sustainable. You can't sacrifice forever out of guilt. The film resolves this by having him *choose* heroism freely—not as obligation but as identity. The famous train scene, where the passengers see his face, protect him, and he becomes briefly human to them, suggests heroism is also about connection.
+
+But the third film complicates this. Peter is finally getting recognition. The city loves him. And the question becomes: does the applause corrupt the act? Does it reveal what was latent all along—that part of him always wanted to be seen, to be thanked, to be rewarded?
+
+Raimi’s Peter is consistently conflicted. Peter is capable of real evil. Spider-Man, like us, must confront that fact, repeatedly, and never expect an easy answer. I don't think the trilogy believes true heroism is possible. I'm not sure it believes anyone can. It suggests something more real, something more palatable. Purity isn't just impossible—it's an ideal. One we must keep striving for, even if we fail to reach it.
+
+Simply choosing to do right, again and again, is the only real superpower.
+
+---
+
+## The Choice
+
+[PLACEHOLDER: You might want to expand here on what this means to you personally. Your essays often end with a turn inward—a moment where the cultural analysis becomes self-interrogation. What does Peter's arc say about your own relationship to ambition, reward, guilt? What have you given in to that you thought you deserved?]
+
+---
+
+[^1]: I own the extended cut on digital. This is not an unbiased opinion.
+
+[^2]: Well, nothing apart from the atrocious Hindi-dubbed dialogue from the first time I watched it back in India.
+
+[^3]: You can google and learn about how a producer forced Venom into this and made it worse.
+
+[^3]: It is unoriginal to point out the lack of memorable villains in the MCU but you can really see the difference when you look at Goblin and Doc Ock with anyone else. Only Keaton's Vulture comes close. While Dafoe and Molina dive in to these roles with relish, credit is also due to Raimi for striking the right tone which allows them to create something Shakespearan.
+
+[^4]: The third film is messy. Too many villains, too many subplots. But Sandman is doing something interesting that gets buried under the Venom fan service.
+
+[^5]: "Karmanye vadhikaraste ma phaleshu kadachana" is a famous verse from the Hindu religious text Bhagavad Gita (Chapter 2, Verse 47) that literally translates to: "You have the right to action, but never to the fruits of your actions". Virtue is habit, not achievement.
+
+[^6]: One must imagine Sisyphus making the choice to be happy.
+
+[^7]: You could also read the trilogy as the child Peter looking for a father figure. He starts off by wrongly rejecting one in Uncle Ben and rightly rejecting a false one in Norman. He thinks he found one in Otto but by the end of the film he has lost him. Finally, he realizes he needs to grow up and be a man now. You might also argue that he does this by successfully combining his basic id, his rational ego, and the superego.
